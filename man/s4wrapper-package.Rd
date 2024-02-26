@@ -8,12 +8,3 @@
 \description{
 s4wrapper is a collection of community-provided methods and extensions for Seurat, and are able to be updated much more frequently.
 }
-\author{
-\strong{Maintainer}: 
-
-Authors:
-\itemize{
-  \item Zan Yuan \email{seqyuan@gmail.com} (\href{https://orcid.org/0000-0001-5582-5120}{ORCID})
-}
-
-}
