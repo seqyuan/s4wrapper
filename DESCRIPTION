@@ -1,0 +1,28 @@
+Package: s4wrapper
+Title: Community-Provided Methods and Extensions for the Seurat Object
+Version: 0.0.1
+Date: 2024-02-26
+Authors@R: c(
+  person(given = 'Zan', family = 'Yuan', email = 'seqyuan@gmail.com', role = 'aut', comment = c(ORCID = '0000-0001-5582-5120'))
+  )
+Description: s4wrapper is a collection of community-provided methods and
+    extensions for Seurat, and are able to be updated much more frequently.
+License: GPL-3 | file LICENSE
+Remotes: 
+    immunogenomics/presto
+Depends:
+    R (>= 3.5.0)
+biocViews:
+Imports:
+    Matrix,
+    stats,
+    utils
+Collate:
+    'internal.R'
+    'presto.R'
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
+Suggests:
+    harmony,
+    presto
