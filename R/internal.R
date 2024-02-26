@@ -5,8 +5,8 @@
 NULL
 
 #' @docType package
-#' @name SeuratWrappers-package
-#' @rdname SeuratWrappers-package
+#' @name s4wrapper-package
+#' @rdname s4wrapper-package
 #'
 "_PACKAGE"
 
