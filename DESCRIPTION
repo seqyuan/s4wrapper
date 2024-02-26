@@ -5,6 +5,7 @@ Date: 2024-02-26
 Authors@R: c(
   person(given = 'Zan', family = 'Yuan', email = 'seqyuan@gmail.com', role = 'aut', comment = c(ORCID = '0000-0001-5582-5120'))
   )
+Maintainer: None
 Description: s4wrapper is a collection of community-provided methods and
     extensions for Seurat, and are able to be updated much more frequently.
 License: GPL-3 | file LICENSE
